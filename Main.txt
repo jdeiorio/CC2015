@@ -4,3 +4,5 @@ now we are in business
 
 
 third commit do it in sourcetree
+
+creating a conflict
